@@ -1,8 +1,19 @@
-Thank you for using our template!
+Description
+This is a description of my portfolio, it showcase my skills and projects on adobe photoshop design. It also describes my personal life and my hobbies.https://mervinkogei.github.io/portfolio/.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Setup/Installation Requirements
+Install the bootstrap
+Install the Text-Editor e.g Vs Code
+Make sure you have the compatible browser
+Technologies Used
+I used the HTM5 and the Bootstrap 4.o.1
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Support and contact details
+Contact me when if they run into any issues or have question
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+License
+License Copyright (c) 2019
+
+Author
+Designed my vincent kogei
+
